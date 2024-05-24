@@ -1,0 +1,70 @@
+{
+
+  "name": "Aiko Djs",
+
+  "version": "1.0.0",
+
+  "description": "A Lightweight Discord Bot.",
+
+  "main": "bot.js",
+
+  "type": "module",
+
+  "scripts": {
+
+    "start": "node bot.js"
+
+  },
+
+  "author": "Tabawa Renkie",
+
+  "license": "MIT",
+
+  "repository": {
+
+    "type": "git",
+
+    "url": "https://github.com/TabawaX/Aiko-Djs-V2"
+
+  },
+
+  "bugs": {
+
+    "url": "https://github.com/TabawaX/Aiko-Djs-V2/issues"
+
+  },
+
+  "homepage": "https://github.com/TabawaX/Aiko-Djs-V2",
+
+  "keywords": [
+
+    "discord",
+
+    "bot", 
+
+    "js",
+
+    "djs",
+
+    "SekaiNetwork",
+
+    "discord Botz"
+
+  ],
+
+  "dependencies": {
+
+    "discord.js": "^14.14.1",
+
+    "dotenv": "^16.4.5"
+
+  },
+
+  "engines": {
+
+    "node": ">=16"
+
+  }
+
+}
+
